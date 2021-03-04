@@ -6,6 +6,15 @@
 #lista.insert(5,"skok w dal")
 #print(lista)
 
+#zad2
+#slownik={"pol":"polityka","pod":"podatki","mini":"minister"}
+#print(slownik)
+
+#zad3
+#slownik_gier={"FPS":"Call of Duty","MMO":"World of Warcraft","RPG":"Wiedźmin 3"}
+#print("Liczba słów w słowniku gier:",len(slownik_gier))
+
+
 #zad4
 # z=input("Podaj dowolne zdanie ")
 # suma=0
